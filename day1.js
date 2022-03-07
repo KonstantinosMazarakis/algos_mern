@@ -1,4 +1,5 @@
 //https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
+// bubble sorting
 
 
 function bubbleSort(arr){
